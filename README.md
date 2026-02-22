@@ -1,2 +1,58 @@
-# junior-high-lab
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>國三理化實驗教學網</title>
+    <style>
+        /* 簡單的視覺設計 */
+        body { font-family: "Microsoft JhengHei", sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f7f6; }
+        header { background-color: #2c3e50; color: white; padding: 2rem; text-align: center; }
+        container { max-width: 800px; margin: 20px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h2 { color: #2980b9; border-bottom: 2px solid #2980b9; padding-bottom: 10px; }
+        .lab-card { border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-left: 5px solid #e67e22; }
+        .footer { text-align: center; font-size: 0.8rem; color: #7f8c8d; margin-top: 50px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🧪 國三理化實驗教學網</h1>
+    <p>探索科學奧秘，掌握實驗關鍵</p>
+</header>
+
+<div class="container">
+    <h2>本學期重點實驗</h2>
+
+    <div class="lab-card">
+        <h3>實驗 1：直線運動與速度</h3>
+        <p>重點：學習如何使用打點計時器，計算平均速度與加速度。</p>
+        <p><strong>💡 叮嚀：</strong> 注意紙帶拉動的速度要均勻喔！</p>
+    </div>
+
+    <div class="lab-card">
+        <h3>實驗 2：酸鹼中和滴定</h3>
+        <p>重點：觀察指示劑顏色變化，計算酸鹼濃度比例。</p>
+        <p><strong>⚠️ 安全：</strong> 請務必全程配戴護目鏡。</p>
+    </div>
+
+    <div class="lab-card">
+        <h3>實驗 3：伏特計與安培計的使用</h3>
+        <p>重點：學習電路連接方式，區分並聯與串聯的差異。</p>
+    </div>
+
+    <h2>參考資源</h2>
+    <ul>
+        <li><a href="#">課本實驗影片 (YouTube)</a></li>
+        <li><a href="#">實驗報告下載專區</a></li>
+        <li><a href="#">常見問題集 (FAQ)</a></li>
+    </ul>
+</div>
+
+<div class="footer">
+    <p>© 2024 國三理化教學小組 | 本網站由 GitHub Pages 提供服務</p>
+</div>
+
+</body>
+</html># junior-high-lab
 國三實驗教學
